@@ -1,0 +1,7 @@
+name: ZombsReloaded
+version: '${project.version}'
+main: com.eliax008789.zombsreloaded.ZombsReloaded
+api-version: 1.19
+prefix: Zombs
+authors: [Eliax00789, Niffler77, Dario_LP]
+description: Zombs.io in Minecraft
